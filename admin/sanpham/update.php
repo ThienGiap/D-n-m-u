@@ -34,7 +34,7 @@ if(is_file($hinhpath)){
 
         </div>
         <div class="row2 mb10">
-            <label>Tên sản phẩm: </label> <br>
+            <label>Tên sản phẩm: abc </label> <br>
             <input type="text" name="tensp" value="<?=$name?>">
         </div>
         <div class="row2 mb10">
